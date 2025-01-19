@@ -23,7 +23,7 @@ TODO
 ## Setup
 
 ```sh
-`git clone https://github.com/chris-lovejoy/personal-ai-coach.git
+git clone https://github.com/chris-lovejoy/personal-ai-coach.git
 cd personal-ai-coach
 ```
 
