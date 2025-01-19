@@ -27,7 +27,7 @@ TODO
 cd personal-ai-coach
 ```
 
-#### Install dependencies
+### Install dependencies
 For example, you can install dependencies using the `venv` virtual environment manager as follows:
 
 ```sh
@@ -43,5 +43,5 @@ pip install -r requirements.txt
 ```
 
 
-#### Add environmental variables
+### Add environmental variables
 Add API keys to .env, as per the .env.example.
