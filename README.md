@@ -10,6 +10,7 @@
 
 - [About](#about)
 - [Setup](#setup)
+- [How To Contribute](#how-to-contribute)
 
 
 
@@ -45,3 +46,22 @@ pip install -r requirements.txt
 
 ### Add environmental variables
 Add API keys to .env, as per the .env.example.
+
+
+
+## How To Contribute
+
+
+would love contributions to:
+- prompts around coaching - different coaching modes 
+- alternative ways to implement this (outside Obsidian + BMO plug-in)
+- ways to give the model more context
+
+
+
+TODO: add details
+
+
+
+
+<!-- TODO: consider adding the relevant Obsidian vault setup/config files -->
