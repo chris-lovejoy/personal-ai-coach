@@ -49,7 +49,7 @@ ii. add required API keys
 iii. run the life context update script
 
 
-### (i) Install dependencies
+#### (i) Install dependencies
 For example, you can install dependencies using the `venv` virtual environment manager as follows:
 
 ```sh
@@ -65,12 +65,12 @@ pip install -r requirements.txt
 ```
 
 
-### (ii) Add required API keys
+#### (ii) Add required API keys
 Add your ANTHROPIC_API_KEY key to .env, as per .env.example
 
 
 
-### (iii) Run the Life Context update scripts
+#### (iii) Run the Life Context update scripts
 
 ```sh
 python scripts/update_life_context.py
