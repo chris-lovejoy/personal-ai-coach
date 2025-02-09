@@ -1,5 +1,5 @@
 # Personal AI Coach
-An LLM-powered coach which can run locally and improves itself over time.
+An personal LLM-powered coach which can run locally and improves itself over time.
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
@@ -11,7 +11,7 @@ An LLM-powered coach which can run locally and improves itself over time.
 
 - [About](#about)
 - [Setup](#setup)
-- [How To Contribute](#how-to-contribute)
+- [Contributing](#contributing)
 
 
 ## About
@@ -72,19 +72,11 @@ TODO
 
 
 
-## How To Contribute
+## Contributing
+All contributions welcome. If you'd like to contribute, please submit a PR.
 
+In particular, the project could be improved by:
+- adding more prompts for different coaching modes
+- alternative ways to set this up (outside of Obsidian + BMO plug-in)
+- alternative ways to provide context to the coach
 
-would love contributions to:
-- prompts around coaching - different coaching modes 
-- alternative ways to implement this (outside Obsidian + BMO plug-in)
-- ways to give the model more context
-
-
-
-TODO: add details
-
-
-
-
-<!-- TODO: consider adding the relevant Obsidian vault setup/config files -->
