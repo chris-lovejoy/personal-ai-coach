@@ -7,7 +7,10 @@ An personal LLM-powered coach which can run locally and improves itself over tim
 ## Table of Contents
 
 - [About](#about)
+    - [Example Usage](#example-usage)
 - [Setup](#setup)
+    - [Talking to the personal AI coach](#talking-to-the-personal-ai-coach)
+    - [Updating the personal AI coach's context](#updating-the-personal-ai-coachs-context)
 - [Contributing](#contributing)
 
 
@@ -80,4 +83,3 @@ In particular, the project could be improved by:
 - adding more prompts for different coaching modes
 - alternative ways to set this up (outside of Obsidian + BMO plug-in)
 - alternative ways to provide context to the coach
-
