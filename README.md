@@ -4,7 +4,9 @@ An personal LLM-powered coach which can run locally and improves itself over tim
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 
-<!-- TODO: add gif / loom showing use -->
+### Example Usage
+https://github.com/user-attachments/assets/04ec1ccb-421d-46c9-aa75-a5ecbc2b0eb3
+
 
 
 ## Table of Contents
