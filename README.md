@@ -46,7 +46,7 @@ To update the coach context, you need to run the python script within the `scrip
 For this, you need to:
 i. install dependencies
 ii. add required API keys
-iii. (optional) set up a cron job to automatically update your coach 
+iii. run the life context update script
 
 
 ### (i) Install dependencies
@@ -70,9 +70,19 @@ Add your ANTHROPIC_API_KEY key to .env, as per .env.example
 
 
 
-### (iii) (optional) set up a cron job to automatically update your coach 
+### (iii) Run the Life Context update scripts
 
-TODO
+```sh
+python scripts/update_life_context.py
+```
+
+This will update the [Life Context prompt](./Life%20Context%20Prompts/Personal%20AI%20Coach%20with%20Life%20Context.md) and save previous prompts in [archive](./Life%20Context%20Prompts/archive/).
+
+You can also optionally set up a cron job to automate this process.
+
+See this video for a full walk-through:
+
+https://www.loom.com/share/f500cdd1119b4b5eb5be83635c1f5f01
 
 
 
