@@ -82,9 +82,7 @@ You can also optionally set up a cron job to automate this process.
 
 See this video for a full walk-through:
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://www.loom.com/share/f500cdd1119b4b5eb5be83635c1f5f01" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
+https://www.loom.com/share/f500cdd1119b4b5eb5be83635c1f5f01
 
 
 ## Contributing
