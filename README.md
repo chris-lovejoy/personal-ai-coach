@@ -21,10 +21,11 @@ A combination of prompts and scripts for a personal AI coach which:
 - Can run privately using locally-hosted models
 - Has different 'modes' of coaching - and is easily extendible to add your own coaching styles and methods
 
+#### Full context on why I built this and how it works [here](https://chrislovejoy.me/personal-ai-coach).
+
+
 ![AI-Performance-Coach-Diagram](https://github.com/user-attachments/assets/da9c5b73-274f-4c8d-b029-dbcae2552be3)
 
-
-#### Full context on why I built this and how it works [here](https://chrislovejoy.me/personal-ai-coach).
 
 ### Example Usage
 https://github.com/user-attachments/assets/04ec1ccb-421d-46c9-aa75-a5ecbc2b0eb3
